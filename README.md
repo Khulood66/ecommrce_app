@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+This project is a starting point for a Flutter application to practising my learning in widgets and how can deal with it to build apps.
 
-This project is a starting point for a Flutter application.
+*Welcome Screen*
+![Screenshot_1706442082](https://github.com/Khulood66/ecommrce_app/assets/127658349/f4f2844c-1988-4b38-8559-8d3fe746d23e)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
